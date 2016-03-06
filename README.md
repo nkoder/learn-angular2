@@ -1,2 +1,2 @@
-# ribbon-web
-Webclient of the Ribbon.
+# ribbon
+Ribbon - the budget tracking app.
