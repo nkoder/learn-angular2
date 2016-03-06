@@ -1,0 +1,13 @@
+# Node: dependencies
+node_modules/
+
+# typings: additional TypeScript definitions
+typings/
+
+# IntelliJ IDEA: project files
+.idea/
+*.iml
+
+# TypeScript: transpiled files
+app/**/*.js
+app/**/*.js.map
