@@ -1,5 +1,6 @@
-# Node: dependencies
+# Node: dependencies & logs
 node_modules/
+npm-debug.log
 
 # typings: additional TypeScript definitions
 typings/
