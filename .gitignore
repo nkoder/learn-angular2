@@ -7,7 +7,6 @@ typings/
 
 # IntelliJ IDEA: project files
 .idea/
-*.iml
 
 # TypeScript: transpiled files
 app/**/*.js
